@@ -98,6 +98,7 @@ There are two ways to contribute to this repository! Lets jump into it!!!!
 - yash participated here.
 - paracommando participated here.
 - alok participated here.
+- algebron participated in 2020
 - [Sourabh Kumar] (https://github.com/Set78) Participated here.
 
 > Enter your name here to contribute
